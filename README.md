@@ -23,8 +23,7 @@
 <br>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsgabiXD)](https://github.com/anuraghazra/github-readme-stats)
-<!-- found @ https://github.com/TheCoderJT/TheCoderJT/blob/master/README.md -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsgabiXD&count_private=true&theme=dark&show_icons=1&custom_title=My+Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **TsgabiXD/TsgabiXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
