@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "dzhavat.css-flexbox-cheatsheet",
+        "formulahendry.auto-rename-tag",
+        "ms-dotnettools.csharp",
+        "hediet.vscode-drawio",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "gruntfuggly.todo-tree",
+        "pflannery.vscode-versionlens",
+        "jrichardeau.vscode-vsproj",
+        "fernandoescolar.vscode-solution-explorer"
+    ]
+}
