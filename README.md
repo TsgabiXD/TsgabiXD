@@ -63,9 +63,10 @@ Everything here is cronologically ordered by the date since I started learning.
 ### Theoretical knowledge or learned long ago:
 
 - μController (ATMega 2560) Programming with C and C++ \
-  <img alt="Atmel" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/KNX_logo.svg" />
+  <img alt="Atmel" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Atmel-Logo.svg" />
 
 - KNX & SPS Programming \
+  <img alt="KNX" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/KNX_logo.svg" />
   <img alt="Siemens" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Siemens-logo.svg" />
 
 - React Framework \
